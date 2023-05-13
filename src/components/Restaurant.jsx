@@ -1,7 +1,7 @@
 const Restaurant = (props) => {
   return (
-    <div>
-      <img src={props.photo} alt={props.name} />
+    <div className="restaurant-info">
+      <img src={props.restaurant.photo} alt={props.restaurant.name} />
     </div>
   )
 }

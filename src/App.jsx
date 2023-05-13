@@ -1,5 +1,5 @@
 import './App.css'
-import restaurantArray from './restaurant.json'
+import restaurantArray from './restaurants.json'
 import Restaurant from './components/Restaurant.jsx'
 
 const App = () => {
