@@ -5,7 +5,9 @@ import Restaurant from './components/Restaurant.jsx'
 const App = () => {
   return (
     <div className="App">
-      <h1 className="header">Best Restaurants in Columbus, Ohio</h1>
+      <header className="header">
+        <h1 className="title">Best Restaurants in Columbus, Ohio</h1>
+      </header>
       <main>
         {restaurantArray.map((restaurant) => (
           <Restaurant restaurant={restaurant} key={restaurant.name} />
