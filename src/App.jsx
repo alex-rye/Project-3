@@ -1,5 +1,6 @@
 import './App.css'
 import restaurantArray from './restaurant.json'
+import Restaurant from './components/Restaurant.jsx'
 
 const App = () => {
   return (
