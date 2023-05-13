@@ -1,21 +1,21 @@
 {
-  'resaurants': [
+  "resaurants": [
     {
-      "name": "Marcella's", 
+      "name": "Marcella's",
       "rating": 4.5,
       "reviews": "1,881",
       "type": "Southern Italian",
       "dollars": "$$",
       "description": "Lively, group-friendly kitchen serving pizza, pasta and other Italian standards in relaxed surroundings.",
-      "hours": 
-        {"monday": "4-10PM",
+      "hours": {
+        "monday": "4-10PM",
         "tuesday": "4-10PM",
         "wednesday": "4-10PM",
         "thursday": "4-10PM",
         "friday": "4-11PM",
         "saturday": "4-11PM",
         "sunday": "4-9PM"
-        },
+      },
       "address": "615 N High St, Columbus, OH 43215",
       "website": "https://marcellasrestaurant.com/locations-menus/marcellas-short-north/",
       "phone": "614-223-2100",
@@ -30,21 +30,21 @@
       "type": "American",
       "dollars": "$$",
       "description": "Swanky dining room inside a distillery offering signature house cocktails & seasonal American fare.",
-      "hours": 
-        {"monday": "5-9PM",
+      "hours": {
+        "monday": "5-9PM",
         "tuesday": "5-9PM",
         "wednesday": "5-9PM",
         "thursday": "5-9PM",
         "friday": "4-11PM",
         "saturday": "4-11PM",
         "sunday": "4-9PM"
-        },
+      },
       "address": "1145 Chesapeake Ave ste d, Columbus, OH 43212",
       "website": "https://www.watersheddistillery.com/kitchenandbar",
       "phone": "614-357-1936",
       "options": "Dine-in, Carryout",
       "popular": "Short Rib",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "Gallo's Kitchen & Bar",
@@ -53,21 +53,21 @@
       "type": "Creole",
       "dollars": "$$",
       "description": "Casual spot serving a mix of Italian & Creole fare, plus a lively bar with beer, wine & TV sports.",
-      "hours": 
-        {"monday": "4-10PM",
+      "hours": {
+        "monday": "4-10PM",
         "tuesday": "4-10PM",
         "wednesday": "4-10PM",
         "thursday": "4-10PM",
         "friday": "4-10PM",
         "saturday": "4-10PM",
         "sunday": "Closed"
-        },
+      },
       "address": "2820 Nottingham Rd, Columbus, OH 43221",
       "website": "http://www.galloskitchen.com/",
       "phone": "614-754-8176",
       "options": "Dine-in, Carryout, Delivery",
       "popular": "Seafood Creole",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "Milestone 229",
@@ -76,21 +76,21 @@
       "type": "American",
       "dollars": "$$",
       "description": "Airy, modern American spot with comfort-driven fare & a patio overlooking the Scioto Mile fountains.",
-      "hours": 
-      {"monday": "11AM-9PM",
-      "tuesday": "11AM-9PM",
-      "wednesday": "11AM-9PM",
-      "thursday": "11AM-9PM",
-      "friday": "11AM-10PM",
-      "saturday": "11AM- 0PM",
-      "sunday": "10AM-3PM, 4PM-9PM"
+      "hours": {
+        "monday": "11AM-9PM",
+        "tuesday": "11AM-9PM",
+        "wednesday": "11AM-9PM",
+        "thursday": "11AM-9PM",
+        "friday": "11AM-10PM",
+        "saturday": "11AM- 0PM",
+        "sunday": "10AM-3PM, 4PM-9PM"
       },
       "address": "229 S Civic Center Dr, Columbus, OH 43215",
       "website": "http://www.milestone229.com/",
       "phone": "614-427-0276",
       "options": "Dine-in, Carryout, Delivery",
       "popular": "Braised Short Ribs",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "The Pearl",
@@ -99,21 +99,21 @@
       "type": "American",
       "dollars": "$$",
       "description": "A refined tavern serving creative fare, alongside wine, house-infused drinks & a deep beer list.",
-      "hours": 
-        {"monday": "4-10PM",
+      "hours": {
+        "monday": "4-10PM",
         "tuesday": "4-10PM",
         "wednesday": "4-10PM",
         "thursday": "4-10PM",
         "friday": "4-11PM",
         "saturday": "10AM-11PM",
         "sunday": "10AM - 9PM"
-        },
+      },
       "address": "641 N High St, Columbus, OH 43215",
       "website": "https://thepearlrestaurant.com/",
       "phone": "614-227-0151",
       "options": "Dine-in, Carryout, Delivery",
       "popular": "Hanger Steak",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "The Guild House",
@@ -122,21 +122,21 @@
       "type": "American",
       "dollars": "$$$",
       "description": "Unique rustic-modern dining room for sampling eclectic, globally inspired seasonal menus.",
-      "hours": 
-        {"monday": "7AM-10PM",
+      "hours": {
+        "monday": "7AM-10PM",
         "tuesday": "7AM-10PM",
         "wednesday": "7AM-10PM",
         "thursday": "7AM-10PM",
         "friday": "7AM-10PM",
         "saturday": "9AM-10PM",
         "sunday": "9AM-9PM"
-        },
+      },
       "address": "624 N High St, Columbus, OH 43215",
       "website": "https://theguildhousecolumbus.com/",
       "phone": "614-280-9780",
       "options": "Dine-in, Carryout, Delivery",
       "popular": "Lamb Chops",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "Hyde Park Prime Steakhouse",
@@ -145,21 +145,21 @@
       "type": "Steakhouse",
       "dollars": "$$$$",
       "description": "High-end steakhouse chain serving grilled meats, seafood & cocktails in a sophisticated setting.",
-      "hours": 
-        {"monday": "4:30-9PM",
+      "hours": {
+        "monday": "4:30-9PM",
         "tuesday": "4:30-9PM",
         "wednesday": "4:30-9PM",
         "thursday": "4:30-9PM",
         "friday": "4:30-10PM",
         "saturday": "4:30-10PM",
         "sunday": "4-8PM"
-        },
+      },
       "address": "569 N High St, Columbus, OH 43215",
       "website": "http://www.hydeparkrestaurants.com/",
       "phone": "614-224-2204",
       "options": "Dine-in, Carryout, Delivery",
       "popular": "Filet Mignon",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "Hofbräuhaus Columbus",
@@ -168,21 +168,21 @@
       "type": "German",
       "dollars": "$$",
       "description": "Modeled after the Munich beer hall, this site offers Bavarian fare, classic beers & garden seating.",
-      "hours": 
-        {"monday": "11AM-10PM",
+      "hours": {
+        "monday": "11AM-10PM",
         "tuesday": "11AM-10PM",
         "wednesday": "11AM-10PM",
         "thursday": "11AM-10PM",
         "friday": "11AM-11PM",
         "saturday": "11AM-12AM",
         "sunday": "11AM-10PM"
-        },
+      },
       "address": "800 Goodale Blvd, Columbus, OH 43212",
       "website": "http://hofbrauhauscolumbus.com/",
       "phone": "614-294-2437",
       "options": "Dine-in, Carryout, Delivery",
       "popular": "Schnitzel",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "Martini Modern Italian",
@@ -191,21 +191,21 @@
       "type": "Italian",
       "dollars": "$$$",
       "description": "Traditional Italian dishes with a modern twist served in a contemporary space with chandeliers.",
-      "hours": 
-        {"monday": "4-10PM",
+      "hours": {
+        "monday": "4-10PM",
         "tuesday": "4-10PM",
         "wednesday": "4-10PM",
         "thursday": "4-10PM",
         "friday": "4-11PM",
         "saturday": "3-11PM",
         "sunday": "10AM-9PM"
-        },
+      },
       "address": "445 N High St, Columbus, OH 43215",
       "website": "https://martinimodernitalian.com/",
       "phone": "614-224-8259",
       "options": "Dine-in, Carryout",
       "popular": "Lamb Papperdelle",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "Cap City Fine Diner and Bar",
@@ -214,21 +214,21 @@
       "type": "American Comfort",
       "dollars": "$$",
       "description": "Riffs on American comfort food are prepped in a polished setting with a retro, midcentury look.",
-      "hours": 
-        {"monday": "11:30AM-9PM",
+      "hours": {
+        "monday": "11:30AM-9PM",
         "tuesday": "11:30AM-9PM",
         "wednesday": "11:30AM-9PM",
         "thursday": "11:30AM-9PM",
         "friday": "11:30AM-10PM",
         "saturday": "11AM-10PM",
         "sunday": "10AM-9PM"
-        },
+      },
       "address": "1299 Olentangy River Rd, Columbus, OH 43212",
       "website": "https://capcityfinediner.com/locations-menus/grandview/",
       "phone": "614-291-3663",
       "options": "Dine-in, Carryout, Delivery",
       "popular": "Romano Crusted Chicken",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "The Eagle",
@@ -237,21 +237,21 @@
       "type": "American, Southern",
       "dollars": "$$",
       "description": "Convivial eatery & beer hall dishing up Southern classics such as fried chicken & spoonbread.",
-      "hours": 
-        {"monday": "4-11PM",
+      "hours": {
+        "monday": "4-11PM",
         "tuesday": "4-11PM",
         "wednesday": "4-11PM",
         "thursday": "4-11PM",
         "friday": "11AM-12AM",
         "saturday": "11AM-12AM",
-        "sunday": "11AM-10PM" 
-        },
+        "sunday": "11AM-10PM"
+      },
       "address": "790 N High St, Columbus, OH 43215",
       "website": "http://www.eaglerestaurant.com/",
       "phone": "614-745-3397",
       "options": "Dine-in, Carryout, Delivery",
       "popular": "Fried Chicken Sandwich",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "Forno Kitchen + Bar",
@@ -260,21 +260,21 @@
       "type": "New American",
       "dollars": "$$",
       "description": "Elevated eatery with swanky decor serving stone-fired New American eats for dinner & weekend brunch.",
-      "hours": 
-        {"monday": "4-11PM",
+      "hours": {
+        "monday": "4-11PM",
         "tuesday": "4-11PM",
         "wednesday": "4-11PM",
         "thursday": "4-11PM",
         "friday": "11AM-1AM",
         "saturday": "10AM-1AM",
         "sunday": "10AM-11PM"
-        },
+      },
       "address": "721 N High St, Columbus, OH 43215",
       "website": "https://fornoshortnorth.com/",
       "phone": "614-469-0053",
       "options": "Dine-in, Carryout",
       "popular": "Calamari",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "Barcelona Restaurant and Bar",
@@ -283,21 +283,21 @@
       "type": "Spanish",
       "dollars": "$$$",
       "description": "Spanish small plates & paella served in a bustling, sleek space with a greenery-filled patio.",
-      "hours": 
-        {"monday": "Closed",
+      "hours": {
+        "monday": "Closed",
         "tuesday": "4-9PM",
         "wednesday": "4-9PM",
         "thursday": "4-9PM",
         "friday": "4-10PM",
         "saturday": "4-10PM",
         "sunday": "4-9PM"
-        },
+      },
       "address": "263 E Whittier St, Columbus, OH 43206",
       "website": "http://www.barcelonacolumbus.com/",
       "phone": "614-443-3699",
       "options": "Dine-in, Carryout, Delivery",
       "popular": "Patatas Bravas",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "Del Mar SoCal Kitchen",
@@ -306,21 +306,21 @@
       "type": "Seafood",
       "dollars": "$$",
       "description": "Seasonal, Southern California-inspired fare is offered with creative cocktails in rustic-chic digs.",
-      "hours": 
-        {"monday": "4-9PM",
+      "hours": {
+        "monday": "4-9PM",
         "tuesday": "4-9PM",
         "wednesday": "4-9PM",
         "thursday": "4-9PM",
         "friday": "4-10PM",
         "saturday": "10AM-10PM",
         "sunday": "10AM-9PM"
-        },
+      },
       "address": "705 N High St 1st Floor, Columbus, OH 43215",
       "website": "https://delmarcolumbus.com/",
       "phone": "614-300-9500",
       "options": "Dine-in, Carryout",
       "popular": "Halibut",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "Brassica",
@@ -329,21 +329,21 @@
       "type": "Mediterranean",
       "dollars": "$$",
       "description": "Locavore pita sandwiches are offered at this bright cafe with a contemporary interior & beer on tap.",
-      "hours": 
-        {"monday": "11AM-10PM",
+      "hours": {
+        "monday": "11AM-10PM",
         "tuesday": "11AM-10PM",
         "wednesday": "11AM-10PM",
         "thursday": "11AM-10PM",
         "friday": "11AM-10PM",
         "saturday": "11AM-10PM",
         "sunday": "11AM-10PM"
-        },
+      },
       "address": "680 N High St, Columbus, OH 43215",
       "website": "http://www.brassicas.com/",
       "phone": "614-867-5885",
       "options": "Dine-in, Carryout, Delivery",
       "popular": "Pita Sandwich",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "Lindey's",
@@ -352,21 +352,21 @@
       "type": "New American",
       "dollars": "$$$",
       "description": "Old-school, special-occasion venue featuring a sophisticated American surf 'n' turf menu & a patio.",
-      "hours": 
-        {"monday": "11AM-10PM",
+      "hours": {
+        "monday": "11AM-10PM",
         "tuesday": "11AM-10PM",
         "wednesday": "11AM-10PM",
         "thursday": "11AM-10PM",
         "friday": "11AM-11PM",
         "saturday": "11AM-11PM",
-        "sunday": "11AM-10PM",
-        },
+        "sunday": "11AM-10PM"
+      },
       "address": "169 E Beck St, Columbus, OH 43206",
       "website": "https://www.lindeys.com/",
       "phone": "614-228-4343",
       "options": "Dine-in, Carryout, Delivery",
       "popular": "Lobster Bisque",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "The 1126 Restaurant",
@@ -375,21 +375,21 @@
       "type": "Sushi",
       "dollars": "$$",
       "description": "Hot & cold starters, grilled fare, tempura & sushi highlight the menu at this modern Japanese spot.",
-      "hours": 
-        {"monday": "3-9:30PM",
+      "hours": {
+        "monday": "3-9:30PM",
         "tuesday": "3-9:30PM",
         "wednesday": "3-9:30PM",
         "thursday": "3-9:30PM",
         "friday": "3-10:30PM",
         "saturday": "1-10:30PM",
         "sunday": "1-9:30PM"
-        },
+      },
       "address": "1126 N High St, Columbus, OH 43201",
       "website": "https://www.the1126restaurant.com/",
       "phone": "614-725-3435",
       "options": "Dine-in, Carryout, Delivery",
       "popular": "The 1126 Roll",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "Schmidt's Sausage Haus",
@@ -398,21 +398,21 @@
       "type": "German",
       "dollars": "$$",
       "description": "Unpretentious, long-running German eatery in a historic livery stable with live oompah music.",
-      "hours": 
-        {"monday": "11AM-9PM",
+      "hours": {
+        "monday": "11AM-9PM",
         "tuesday": "11AM-9PM",
         "wednesday": "11AM-9PM",
         "thursday": "11AM-9PM",
         "friday": "11AM-10PM",
         "saturday": "11AM-10PM",
         "sunday": "11AM-9PM"
-        },
+      },
       "address": "240 E Kossuth St, Columbus, OH 43206",
       "website": "http://www.schmidthaus.com/",
       "phone": "614-444-6808",
       "options": "Dine-in, Carryout, Delivery",
       "popular": "Bavarian Cabbage Rolls",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "Bakersfield",
@@ -421,21 +421,21 @@
       "type": "Tacos",
       "dollars": "$$",
       "description": "Tacos & a few other Mexican dishes are delivered in an upbeat, margarita-fueled atmosphere.",
-      "hours": 
-        {"monday": "4-11PM",
+      "hours": {
+        "monday": "4-11PM",
         "tuesday": "4-11PM",
         "wednesday": "4-11PM",
         "thursday": "4-11PM",
         "friday": "11AM-12AM",
         "saturday": "11AM-12AM",
         "sunday": "11AM-10PM"
-        },
+      },
       "address": "733 N High St, Columbus, OH 43215",
       "website": "http://www.bakersfieldtacos.com/",
       "phone": "614-754-8436",
       "options": "Dine-in, Carryout, Delivery",
       "popular": "Short Rib Queso",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "Chapman's Eat Market",
@@ -444,21 +444,21 @@
       "type": "New American",
       "dollars": "$$",
       "description": "Inventive global cuisine served in a relaxed restaurant that has vintage-style decor.",
-      "hours": 
-        {"monday": "5-9PM",
+      "hours": {
+        "monday": "5-9PM",
         "tuesday": "5-9PM",
         "wednesday": "5-9PM",
         "thursday": "5-9PM",
         "friday": "5-10PM",
         "saturday": "5-10PM",
         "sunday": "Closed"
-        },
+      },
       "address": "739 S 3rd St, Columbus, OH 43206",
       "website": "http://www.eatchapmans.com/",
       "phone": "614-444-0917",
       "options": "Dine-in, Carryout",
       "popular": "Com Tam",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "4th & State",
@@ -467,21 +467,21 @@
       "type": "Vegan",
       "dollars": "$$",
       "description": "Unfussy vegan restaurant offering classic breakfast dishes, plus wraps, pizza & other comfort food.",
-      "hours": 
-        {"monday": "11AM-9PM",
+      "hours": {
+        "monday": "11AM-9PM",
         "tuesday": "11AM-9PM",
         "wednesday": "11AM-9PM",
         "thursday": "11AM-9PM",
         "friday": "11AM-9PM",
         "saturday": "9AM-5PM",
         "sunday": "9AM-5PM"
-        },
+      },
       "address": "152 E State St, Columbus, OH 43215",
       "website": "https://www.4thandstate.com/",
       "phone": "614-224-5461",
       "options": "Dine-in, Carryout, Delivery",
       "popular": "Vrunchwrap",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
       "name": "Mitchell's Ocean Club",
@@ -490,91 +490,90 @@
       "type": "Seafood",
       "dollars": "$$$$",
       "description": "Upscale supper club with a seafood focus, prime steaks, piano bar & 50+ wines by the glass.",
-      "hours": 
-        {"monday": "4-10PM",
+      "hours": {
+        "monday": "4-10PM",
         "tuesday": "4-10PM",
         "wednesday": "4-10PM",
         "thursday": "4-10PM",
         "friday": "4-10PM",
         "saturday": "4-10PM",
         "sunday": "11AM-10PM"
-        },
+      },
       "address": "4002 Easton Station, Columbus, OH 43219",
       "website": "https://www.ocean-prime.com/locations-menus/mitchells-ocean-club",
       "phone": "614-416-2582",
       "options": "Dine-in, Carryout",
       "popular": "Chilean Sea Bass",
-      "photo": "image.png"      
+      "photo": "image.png"
     },
     {
-      "name": "",
-      "rating": ,
-      "reviews": ,
-      "type": "",
-      "dollars": "",
-      "description": "",
-      "hours": 
-        {"monday": ,
-        "tuesday": ,
-        "wednesday": ,
-        "thursday": ,
-        "friday": ,
-        "saturday": ,
-        "sunday": ,
-        },
-      "address": "",
-      "website": "",
-      "phone": "",
-      "options": "",
-      "popular": "",
-      "photo": ""      
+      "name": "Rooh",
+      "rating": 4.6,
+      "reviews": "349",
+      "type": "Indian",
+      "dollars": "$$",
+      "description": "Unique cocktails & elevated Indian cuisine are showcased at this cosmopolitan restaurant & bar.",
+      "hours": {
+        "monday": "Closed",
+        "tuesday": "5-8:30PM",
+        "wednesday": "5-8:30PM",
+        "thursday": "5-8:30PM",
+        "friday": "5-9:30PM",
+        "saturday": "5-9:30PM",
+        "sunday": "5-8:30PM"
+      },
+      "address": "685 N High St, Columbus, OH 43215",
+      "website": "http://roohcolumbus.com/",
+      "phone": "614-972-8678",
+      "options": "Dine-in, Carryout, Delivery",
+      "popular": "Butter Chicken",
+      "photo": "image.png"
     },
     {
-      "name": "",
-      "rating": ,
-      "reviews": ,
-      "type": "",
-      "dollars": "",
-      "description": "",
-      "hours": 
-        {"monday": ,
-        "tuesday": ,
-        "wednesday": ,
-        "thursday": ,
-        "friday": ,
-        "saturday": ,
-        "sunday": ,
-        },
-      "address": "",
-      "website": "",
-      "phone": "",
-      "options": "",
-      "popular": "",
-      "photo": ""      
+      "name": "Tommy's Diner",
+      "rating": 4.7,
+      "reviews": "2,769",
+      "type": "Diner",
+      "dollars": "$",
+      "description": "Classic diner fare for breakfast & lunch in a family-run spot with red vinyl booths & neon lights.",
+      "hours": {
+        "monday": "6:30AM-2:30PM",
+        "tuesday": "6:30AM-2:30PM",
+        "wednesday": "6:30AM-2:30PM",
+        "thursday": "6:30AM-2:30PM",
+        "friday": "6:30AM-2:30PM",
+        "saturday": "6:30AM-2:30PM",
+        "sunday": "6:30AM-2:30PM"
+      },
+      "address": "914 W Broad St, Columbus, OH 43222",
+      "website": "http://www.tommysdiner.com/",
+      "phone": "614-224-2422",
+      "options": "Dine-in, Carryout, Delivery",
+      "popular": "Eggs Benedict",
+      "photo": "image.png"
     },
     {
-      "name": "",
-      "rating": ,
-      "reviews": ,
-      "type": "",
-      "dollars": "",
-      "description": "",
-      "hours": 
-        {"monday": ,
-        "tuesday": ,
-        "wednesday": ,
-        "thursday": ,
-        "friday": ,
-        "saturday": ,
-        "sunday": ,
-        },
-      "address": "",
-      "website": "",
-      "phone": "",
-      "options": "",
-      "popular": "",
-      "photo": ""      
+      "name": "Katalina's",
+      "rating": 4.6,
+      "reviews": "1,621",
+      "type": "Brunch",
+      "dollars": "$$",
+      "description": "A funky, collegial, open-all-day cafe known for down-home breakfasts, soups, salads & sandwiches.",
+      "hours": {
+        "monday": "8AM-3PM",
+        "tuesday": "8AM-3PM",
+        "wednesday": "8AM-3PM",
+        "thursday": "8AM-3PM",
+        "friday": "8AM-3PM",
+        "saturday": "8AM-3PM",
+        "sunday": "8AM-3PM"
+      },
+      "address": "1105 Pennsylvania Ave, Columbus, OH 43201",
+      "website": "http://www.katalinas.com/",
+      "phone": "614-294-2233",
+      "options": "Dine-in, Carryout, Delivery",
+      "popular": "Pancake Balls",
+      "photo": "image.png"
     }
   ]
 }
-    
