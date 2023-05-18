@@ -598,5 +598,29 @@
     "popular": "Pancake Balls",
     "dish": "https://cdn.columbusunderground.com/wp-content/uploads/2019/08/Katalinas-3-620x382.jpg",
     "photo": "https://ohio.org/static/uploads/068t000000Amzx8AAB.jpg"
+  },
+  {
+    "name": "City Barbeque",
+    "rating": 4.5,
+    "reviews": "https://www.yelp.com/biz/city-barbeque-columbus-4",
+    "type": "Barbeque",
+    "dollars": "$$",
+    "description": "Counter-serve smokehouse chain offering classic barbecue fare in down-home settings.",
+    "hours": {
+      "monday": "11AM-9PM",
+      "tuesday": "11AM-9PM",
+      "wednesday": "11AM-9PM",
+      "thursday": "11AM-9PM",
+      "friday": "11AM-9PM",
+      "saturday": "11AM-9PM",
+      "sunday": "11AM-8PM"
+    },
+    "address": "2111 W Henderson Rd, Columbus, OH 43220",
+    "website": "https://www.citybbq.com/",
+    "phone": "614-538-8890",
+    "options": "Dine-in, Carryout, Delivery",
+    "popular": "Pulled Pork",
+    "dish": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/photosV2/ea0154fc-b469-44e3-a964-4e749c48880a-7c8807ce-7657-4b31-8171-105f8ee16827-retina-large.JPG",
+    "photo": "https://threebestrated.com/images/CityBarbequeandCatering-Columbus-OH.png"
   }
 ]
