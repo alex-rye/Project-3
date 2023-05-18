@@ -86,12 +86,14 @@ p {
 
 .popular:hover + .dish{
   display: block;
-  height: 200px;
-  width: 200px;
+  height: 225px;
+  width: 225px;
 }
 
-select {
+#hours {
   text-align: center;
   border: rounded;
   border-radius: 20px;
+  width: auto;
 }
+
