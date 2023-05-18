@@ -30,7 +30,7 @@ const Restaurant = (props) => {
         <h3>{props.restaurant.address}</h3>
         <Hours hours={props.restaurant.hours} />
         <h3>{props.restaurant.options}</h3>
-        <h3>{props.restaurant.phone}</h3>
+        <h3>Phone: {props.restaurant.phone}</h3>
       </div>
     </div>
   )
