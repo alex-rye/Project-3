@@ -53,6 +53,9 @@ const Type = (props) => {
     case 'Brunch':
       colorVariable = 'rgb(237, 150, 0)'
       break
+    case 'Barbeque':
+      colorVariable = 'rgb(125, 92, 2)'
+      break
     default:
       colorVariable = 'blue'
   }
