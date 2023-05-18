@@ -92,4 +92,6 @@ p {
 
 select {
   text-align: center;
+  border: rounded;
+  border-radius: 20px;
 }
