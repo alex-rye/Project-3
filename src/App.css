@@ -16,6 +16,7 @@ main {
   flex-wrap: wrap;
   gap: 20px;
   padding-top: 10px;
+  padding-bottom: 10px;
   justify-content: center;
   background-image: url('https://media.istockphoto.com/id/1169151392/photo/columbus-ohio-usa-skyline-on-the-river.jpg?s=612x612&w=0&k=20&c=OaFCMNdZwSC1tgki8w0Mj8rGy0B0hHvKCj_TQ00TDB8=');
 }
